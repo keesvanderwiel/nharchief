@@ -1,0 +1,2539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opendata>
+  <header><type>XML</type>
+    <rights>Public Domain Dedication</rights>
+    <modified>2018-03-11</modified>
+    <dataProvider>Noord-Hollands Archief</dataProvider>
+    <provider>Noord-Hollands Archief</provider>
+  </header>
+  <data><record type="Nadere toegang per invnr">
+      <recorditems>
+        <item label="">Memorie van Successie, 1882</item>
+        <item label="nummer">178-1660</item>
+        <item label="beginjaar">0</item>
+        <item label="eindjaar">9999</item>
+        <item label="Toegangsnummer">178</item>
+        <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;mizig=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;miview=ldt</bron>
+      </recorditems>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jan Jacob Groeneweg</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jan Jacob</item>
+          <item label="Achternaam">Groeneweg</item>
+          <item label="Overlijdensjaar">01-07-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8246</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040245&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Carolus Georgius Lomeijer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Carolus Georgius</item>
+          <item label="Achternaam">Lomeijer</item>
+          <item label="Overlijdensjaar">03-07-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8250</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040246&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jacobus Willem Johannes Dors</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jacobus Willem Johannes</item>
+          <item label="Achternaam">Dors</item>
+          <item label="Overlijdensjaar">14-07-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8291</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040247&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hendrikus Frederik Gerlagh</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Hendrikus Frederik</item>
+          <item label="Achternaam">Gerlagh</item>
+          <item label="Overlijdensjaar">22-07-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8312</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040248&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Pieter Wijkhuizen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Pieter</item>
+          <item label="Achternaam">Wijkhuizen</item>
+          <item label="Overlijdensjaar">28-07-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8332</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040249&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Anthonie van Eks</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Anthonie</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Eks</item>
+          <item label="Overlijdensjaar">01-07-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8343</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040250&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Cornelis de Koning</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Cornelis</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Koning</item>
+          <item label="Overlijdensjaar">10-07-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8349</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040251&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Guurtje Wiedijk</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Guurtje</item>
+          <item label="Achternaam">Wiedijk</item>
+          <item label="Overlijdensjaar">23-07-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8355</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040252&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Leonardus Buckens</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8360</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Leonardus</item>
+          <item label="Achternaam">Buckens</item>
+          <item label="Overlijdensjaar">27-07-1882</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040253&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johannes Uitendaal</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Johannes</item>
+          <item label="Achternaam">Uitendaal</item>
+          <item label="Overlijdensjaar">03-07-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8370</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040254&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">David Mattheus van Gelder de Neufville</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">David Mattheus</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Gelder de Neufville</item>
+          <item label="Overlijdensjaar">09-07-1882</item>
+          <item label="Overlijdensplaats">Utrecht</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8376</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040255&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Philippus Johannes Roorda</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Philippus Johannes</item>
+          <item label="Achternaam">Roorda</item>
+          <item label="Overlijdensjaar">19-05-1882</item>
+          <item label="Overlijdensplaats">aan boord</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8411</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040256&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Susanna Hendrika Havesman</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Susanna Hendrika</item>
+          <item label="Achternaam">Havesman</item>
+          <item label="Overlijdensjaar">06-08-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8433</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040257&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Willemina Bijpost</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Willemina</item>
+          <item label="Achternaam">Bijpost</item>
+          <item label="Overlijdensjaar">14-08-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8455</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040258&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johannes Petrus van der Schaft</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Johannes Petrus</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Schaft</item>
+          <item label="Overlijdensjaar">14-08-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8456</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040259&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Anna Jansen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Anna</item>
+          <item label="Achternaam">Jansen</item>
+          <item label="Overlijdensjaar">18-08-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8461</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040260&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jan la Lau</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Jan</item>
+          <item label="Tussenvoegsel">la</item>
+          <item label="Achternaam">Lau</item>
+          <item label="Overlijdensjaar">20-08-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8466</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040261&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johannes Isaac Bergh</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Johannes Isaac</item>
+          <item label="Achternaam">Bergh</item>
+          <item label="Overlijdensjaar">30-08-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8505</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040262&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Reintje Roelofs Lelia</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Reintje Roelofs</item>
+          <item label="Achternaam">Lelia</item>
+          <item label="Overlijdensjaar">31-07-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8507</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040263&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hugo Rietdijk</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Hugo</item>
+          <item label="Achternaam">Rietdijk</item>
+          <item label="Overlijdensjaar">12-08-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8518</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040264&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Marinus Sleggers</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Marinus</item>
+          <item label="Achternaam">Sleggers</item>
+          <item label="Overlijdensjaar">17-08-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8520</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040265&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Adriana Dingena van der Werff</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Adriana Dingena</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Werff</item>
+          <item label="Overlijdensjaar">13-08-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8533</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040266&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Martina Bergman</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Martina</item>
+          <item label="Achternaam">Bergman</item>
+          <item label="Overlijdensjaar">17-08-1882</item>
+          <item label="Overlijdensplaats">Schoten</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8553</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040267&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Nelis Ruthgerus</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Nelis</item>
+          <item label="Achternaam">Ruthgerus</item>
+          <item label="Overlijdensjaar">30-08-1882</item>
+          <item label="Overlijdensplaats">Schoten</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8554</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040268&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jenneke Mollink</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Jenneke</item>
+          <item label="Achternaam">Mollink</item>
+          <item label="Overlijdensjaar">07-08-1882</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Overlijdensplaats">Haarlemmerliede en Spaarnwoude</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8556</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040269&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jacob Engelgeer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jacob</item>
+          <item label="Achternaam">Engelgeer</item>
+          <item label="Overlijdensjaar">30-08-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8563</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040270&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Nicolaas de Wit</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Nicolaas</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Wit</item>
+          <item label="Overlijdensjaar">07-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8584</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040271&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Abraham Kattenburg</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Abraham</item>
+          <item label="Achternaam">Kattenburg</item>
+          <item label="Overlijdensjaar">07-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8586</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040272&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johannes Anthonius Dominicus Heemskerk</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Johannes Anthonius Dominicus</item>
+          <item label="Achternaam">Heemskerk</item>
+          <item label="Overlijdensjaar">12-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8599</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040273&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Marretje Marseille</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Marretje</item>
+          <item label="Achternaam">Marseille</item>
+          <item label="Overlijdensjaar">10-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8612</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040274&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Heinrich Wilhelm Baum</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Heinrich Wilhelm</item>
+          <item label="Achternaam">Baum</item>
+          <item label="Overlijdensjaar">10-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8614</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040275&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johanna van der Lee</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Johanna</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Lee</item>
+          <item label="Overlijdensjaar">19-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8618</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040276&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hendrika Hillegonda Boeg</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Hendrika Hillegonda</item>
+          <item label="Achternaam">Boeg</item>
+          <item label="Overlijdensjaar">20-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8626</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040277&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Cornelis Witteveen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Cornelis</item>
+          <item label="Achternaam">Witteveen</item>
+          <item label="Overlijdensjaar">21-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8629</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040278&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Isabella Wilhelmina van der Star</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Isabella Wilhelmina</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Star</item>
+          <item label="Overlijdensjaar">23-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8630</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040279&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Petrus Haan</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Petrus</item>
+          <item label="Achternaam">Haan</item>
+          <item label="Overlijdensjaar">22-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8634</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040280&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Petrus de Haan</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Petrus</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Haan</item>
+          <item label="Overlijdensjaar">22-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8634</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040281&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Martina Anna Zwaaneveld</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Martina Anna</item>
+          <item label="Achternaam">Zwaaneveld</item>
+          <item label="Overlijdensjaar">26-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8639</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040282&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Goverd van der Beek</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Goverd</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Beek</item>
+          <item label="Overlijdensjaar">09-09-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8655</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040283&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Aaltje Appel</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Aaltje</item>
+          <item label="Achternaam">Appel</item>
+          <item label="Overlijdensjaar">29-08-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8656</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040284&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Nicolaas Andreas Dekker</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Nicolaas Andreas</item>
+          <item label="Achternaam">Dekker</item>
+          <item label="Overlijdensjaar">14-09-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8659</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040285&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johanna de Booij</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Johanna</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Booij</item>
+          <item label="Overlijdensjaar">02-09-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8673</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040286&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Gesina Vester</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Gesina</item>
+          <item label="Achternaam">Vester</item>
+          <item label="Overlijdensjaar">22-09-1882</item>
+          <item label="Overlijdensplaats">Bennebroek</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8680</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040287&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jenneke Adriana Maria van Dusseldorp</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jenneke Adriana Maria</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Dusseldorp</item>
+          <item label="Overlijdensjaar">26-09-1882</item>
+          <item label="Overlijdensplaats">Heemstede</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8686</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040288&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Christina Cornelia van der Feen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Christina Cornelia</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Feen</item>
+          <item label="Overlijdensjaar">30-09-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8705</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040289&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Louisa Petronella Francisca Vreem</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Louisa Petronella Francisca</item>
+          <item label="Achternaam">Vreem</item>
+          <item label="Overlijdensjaar">02-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8707</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040290&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Alida Groeneveld</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Alida</item>
+          <item label="Achternaam">Groeneveld</item>
+          <item label="Overlijdensjaar">02-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8711</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040291&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Maria Vis</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Maria</item>
+          <item label="Achternaam">Vis</item>
+          <item label="Overlijdensjaar">04-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8715</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040292&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jacoba Meester</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jacoba</item>
+          <item label="Achternaam">Meester</item>
+          <item label="Overlijdensjaar">04-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8720</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040293&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Mathijs of Thijs Dekker</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Mathijs of Thijs</item>
+          <item label="Achternaam">Dekker</item>
+          <item label="Overlijdensjaar">09-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8724</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040294&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Anna Geertruida Beaufort</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Anna Geertruida</item>
+          <item label="Achternaam">Beaufort</item>
+          <item label="Overlijdensjaar">12-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8734</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040295&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Christina Georgette van der Mandele</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Christina Georgette</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Mandele</item>
+          <item label="Overlijdensjaar">12-10-1882</item>
+          <item label="Overlijdensplaats">&apos;s-Gravenhage</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8742</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040296&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Gerrit Versteeg</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Gerrit</item>
+          <item label="Achternaam">Versteeg</item>
+          <item label="Overlijdensjaar">14-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8743</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040297&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Andreas Wilhelmus Leuven</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Andreas Wilhelmus</item>
+          <item label="Achternaam">Leuven</item>
+          <item label="Overlijdensjaar">17-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8748</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040298&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Petrus Josephus Steekers</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Petrus Josephus</item>
+          <item label="Achternaam">Steekers</item>
+          <item label="Overlijdensjaar">17-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8749</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040299&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Franciscus Arnoldus van Hoekelen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Franciscus Arnoldus</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Hoekelen</item>
+          <item label="Overlijdensjaar">17-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8750</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040300&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Petrus Tijssen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Petrus</item>
+          <item label="Achternaam">Tijssen</item>
+          <item label="Overlijdensjaar">18-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8759</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040301&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Gerrit Anneszoon Geerts</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Gerrit Anneszoon</item>
+          <item label="Achternaam">Geerts</item>
+          <item label="Overlijdensjaar">21-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8765</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040302&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hendrik van Gend</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Hendrik</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Gend</item>
+          <item label="Overlijdensjaar">21-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8768</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040303&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jaques van der Straaten</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jaques</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Straaten</item>
+          <item label="Overlijdensjaar">22-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8770</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040304&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jan de Beer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jan</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Beer</item>
+          <item label="Overlijdensjaar">23-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8771</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040305&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Albertus van Sassenberg</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Albertus</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Sassenberg</item>
+          <item label="Overlijdensjaar">22-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8772</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040306&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Simon Bruijns</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Simon</item>
+          <item label="Achternaam">Bruijns</item>
+          <item label="Overlijdensjaar">23-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8775</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040307&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Gerrit Thomass</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Gerrit</item>
+          <item label="Achternaam">Thomass</item>
+          <item label="Overlijdensjaar">25-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8776</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040308&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Catharina Elsbijn Keijzer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Catharina Elsbijn</item>
+          <item label="Achternaam">Keijzer</item>
+          <item label="Overlijdensjaar">25-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8778</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040309&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Sara Sartorius</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Sara</item>
+          <item label="Achternaam">Sartorius</item>
+          <item label="Overlijdensjaar">24-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8779</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040310&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Catharina Klazina Verhoeven</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Catharina Klazina</item>
+          <item label="Achternaam">Verhoeven</item>
+          <item label="Overlijdensjaar">25-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8781</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040311&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jacob Joseph Posno</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jacob Joseph</item>
+          <item label="Achternaam">Posno</item>
+          <item label="Overlijdensjaar">25-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8782</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040312&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Elizabeth Margaretha Scheffers</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Elizabeth Margaretha</item>
+          <item label="Achternaam">Scheffers</item>
+          <item label="Overlijdensjaar">26-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8784</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040313&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Wilhelmina Theodora van Asperen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Wilhelmina Theodora</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Asperen</item>
+          <item label="Overlijdensjaar">26-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8786</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040314&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jacob Hendrik Veen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jacob Hendrik</item>
+          <item label="Achternaam">Veen</item>
+          <item label="Overlijdensjaar">28-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8787</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040315&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Elisabeth Schlatmann</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Elisabeth</item>
+          <item label="Achternaam">Schlatmann</item>
+          <item label="Overlijdensjaar">29-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8789</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040316&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Albertus van Leeuwen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Albertus</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Leeuwen</item>
+          <item label="Overlijdensjaar">27-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8792</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040317&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johannes Burchard Duisenberg</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Johannes Burchard</item>
+          <item label="Achternaam">Duisenberg</item>
+          <item label="Overlijdensjaar">30-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8793</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040318&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Lopje Groot</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Lopje</item>
+          <item label="Achternaam">Groot</item>
+          <item label="Overlijdensjaar">01-10-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8795</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040319&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Adriana Maaskant</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Adriana</item>
+          <item label="Achternaam">Maaskant</item>
+          <item label="Overlijdensjaar">13-10-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8806</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040320&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Antje de Wit</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Antje</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Wit</item>
+          <item label="Overlijdensjaar">18-10-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8807</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040321&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Petronella Johanna Maria Blom</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Petronella Johanna Maria</item>
+          <item label="Achternaam">Blom</item>
+          <item label="Overlijdensjaar">24-10-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8818</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040322&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Martinus Hulsebosch</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Martinus</item>
+          <item label="Achternaam">Hulsebosch</item>
+          <item label="Overlijdensjaar">18-10-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8835</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040323&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Anthonie de Rooij</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Anthonie</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Rooij</item>
+          <item label="Overlijdensjaar">18-10-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8836</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040324&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Nicolaas Kramer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Nicolaas</item>
+          <item label="Achternaam">Kramer</item>
+          <item label="Overlijdensjaar">21-10-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8838</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040325&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johannes Commelin</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Johannes</item>
+          <item label="Achternaam">Commelin</item>
+          <item label="Overlijdensjaar">23-10-1882</item>
+          <item label="Overlijdensplaats">Heemstede</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8845</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040326&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Aletta Louisa Christina Schultze</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Aletta Louisa Christina</item>
+          <item label="Achternaam">Schultze</item>
+          <item label="Overlijdensjaar">04-10-1882</item>
+          <item label="Overlijdensplaats">Zandvoort</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8849</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040327&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jacobus Johannes Bierman</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jacobus Johannes</item>
+          <item label="Achternaam">Bierman</item>
+          <item label="Overlijdensjaar">24-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8853</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040328&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hendrika Margaretha Stouten</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Hendrika Margaretha</item>
+          <item label="Achternaam">Stouten</item>
+          <item label="Overlijdensjaar">31-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8855</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040329&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Cornelius Swaluë</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Cornelius</item>
+          <item label="Achternaam">Swaluë</item>
+          <item label="Overlijdensjaar">31-10-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8857</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040330&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Leonora Cornelia Meijlink</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Leonora Cornelia</item>
+          <item label="Achternaam">Meijlink</item>
+          <item label="Overlijdensjaar">02-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8862</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040331&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Bernardus Meijer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Bernardus</item>
+          <item label="Achternaam">Meijer</item>
+          <item label="Overlijdensjaar">02-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8864</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040332&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hermanus Koekoek</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Hermanus</item>
+          <item label="Achternaam">Koekoek</item>
+          <item label="Overlijdensjaar">05-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8870</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040333&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Martinus van Zurk</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Martinus</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Zurk</item>
+          <item label="Overlijdensjaar">07-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8876</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040334&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hermanus Dirk Evertsen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Hermanus Dirk</item>
+          <item label="Achternaam">Evertsen</item>
+          <item label="Overlijdensjaar">08-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8879</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040335&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hendrina Gerarda Immink</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Hendrina Gerarda</item>
+          <item label="Achternaam">Immink</item>
+          <item label="Overlijdensjaar">10-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8882</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040336&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Maria Laurette Jeannette Schepern</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Maria Laurette Jeannette</item>
+          <item label="Achternaam">Schepern</item>
+          <item label="Overlijdensjaar">13-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8889</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040337&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Geertruida Elbers</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Geertruida</item>
+          <item label="Achternaam">Elbers</item>
+          <item label="Overlijdensjaar">15-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8894</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040338&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jan Rosekrans</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Jan</item>
+          <item label="Achternaam">Rosekrans</item>
+          <item label="Overlijdensjaar">19-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8906</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040339&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johannes van Waijenburg</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Johannes</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Waijenburg</item>
+          <item label="Overlijdensjaar">21-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8913</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040340&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Cornelia Baalbergen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Cornelia</item>
+          <item label="Achternaam">Baalbergen</item>
+          <item label="Overlijdensjaar">24-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8915</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040341&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Hermanus Gerardus Tromp</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Hermanus Gerardus</item>
+          <item label="Achternaam">Tromp</item>
+          <item label="Overlijdensjaar">25-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8918</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040342&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Anna Catharina Elisabeth de Loor</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Anna Catharina Elisabeth</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Loor</item>
+          <item label="Overlijdensjaar">29-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8925</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040343&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Geertruida Berkhout</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Geertruida</item>
+          <item label="Achternaam">Berkhout</item>
+          <item label="Overlijdensjaar">01-11-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8930</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040344&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Aart Bokhorst</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Aart</item>
+          <item label="Achternaam">Bokhorst</item>
+          <item label="Overlijdensjaar">04-11-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8934</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040345&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Pieter Engel Oudejans</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Pieter Engel</item>
+          <item label="Achternaam">Oudejans</item>
+          <item label="Overlijdensjaar">12-11-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8939</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040346&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Helena Oudewaal</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Dossiernummer">5/8940</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Voornaam">Helena</item>
+          <item label="Achternaam">Oudewaal</item>
+          <item label="Overlijdensjaar">13-11-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040347&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Lourens van der Zon</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Lourens</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Zon</item>
+          <item label="Overlijdensjaar">13-11-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8941</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040348&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Cornelia Es</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Cornelia</item>
+          <item label="Achternaam">Es</item>
+          <item label="Overlijdensjaar">28-11-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8954</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040349&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Cornelis Bakker</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Cornelis</item>
+          <item label="Achternaam">Bakker</item>
+          <item label="Overlijdensjaar">11-11-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8964</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040350&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Petrus Franciscus Buijs</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Petrus Franciscus</item>
+          <item label="Achternaam">Buijs</item>
+          <item label="Overlijdensjaar">15-11-1882</item>
+          <item label="Overlijdensplaats">Haarlemmerliede en Spaarnwoude</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/8991</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040351&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Coenraad Kerbert</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Coenraad</item>
+          <item label="Achternaam">Kerbert</item>
+          <item label="Overlijdensjaar">06-10-1882</item>
+          <item label="Overlijdensplaats">Utrecht</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9001</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040352&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Elisabeth van den Berg</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Elisabeth</item>
+          <item label="Tussenvoegsel">van den</item>
+          <item label="Achternaam">Berg</item>
+          <item label="Overlijdensjaar">29-11-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9010</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040353&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Machteltje Scheepers</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Machteltje</item>
+          <item label="Achternaam">Scheepers</item>
+          <item label="Overlijdensjaar">01-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9013</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040354&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Wolff Jacobson</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Wolff</item>
+          <item label="Achternaam">Jacobson</item>
+          <item label="Overlijdensjaar">01-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9017</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040355&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Wilhelmus Gerardus Lasschuit</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Wilhelmus Gerardus</item>
+          <item label="Achternaam">Lasschuit</item>
+          <item label="Overlijdensjaar">02-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9018</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040356&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Mattheus Coolen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Mattheus</item>
+          <item label="Achternaam">Coolen</item>
+          <item label="Overlijdensjaar">03-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9019</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040357&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Susanna Maria Weeveringh</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Susanna Maria</item>
+          <item label="Achternaam">Weeveringh</item>
+          <item label="Overlijdensjaar">08-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9035</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040358&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Pieter Renous</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Pieter</item>
+          <item label="Achternaam">Renous</item>
+          <item label="Overlijdensjaar">10-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9039</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040359&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jonas Levij van Os</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Jonas Levij</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Os</item>
+          <item label="Overlijdensjaar">11-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9040</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040360&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Diderica Gezina Reudler</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Diderica Gezina</item>
+          <item label="Achternaam">Reudler</item>
+          <item label="Overlijdensjaar">12-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9041</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040361&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Antonia Modderman</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Antonia</item>
+          <item label="Achternaam">Modderman</item>
+          <item label="Overlijdensjaar">13-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9044</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040362&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Catharina IJperlaan</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Catharina</item>
+          <item label="Achternaam">IJperlaan</item>
+          <item label="Overlijdensjaar">13-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9046</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040363&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Maria van den Heuvel</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Maria</item>
+          <item label="Tussenvoegsel">van den</item>
+          <item label="Achternaam">Heuvel</item>
+          <item label="Overlijdensjaar">14-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9049</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040364&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Alijda Elberhorst</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Alijda</item>
+          <item label="Achternaam">Elberhorst</item>
+          <item label="Overlijdensjaar">15-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9050</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040365&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Christiaan Boogaard</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Christiaan</item>
+          <item label="Achternaam">Boogaard</item>
+          <item label="Overlijdensjaar">14-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9051</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040366&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Anna Johanna Arends</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Anna Johanna</item>
+          <item label="Achternaam">Arends</item>
+          <item label="Overlijdensjaar">16-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9053</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040367&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Anna Maria Vogels</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Anna Maria</item>
+          <item label="Achternaam">Vogels</item>
+          <item label="Overlijdensjaar">18-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9058</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040368&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johanna Jurdina de Weijer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Johanna Jurdina</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Weijer</item>
+          <item label="Overlijdensjaar">18-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9060</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040369&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Antje de Jong</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Antje</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Jong</item>
+          <item label="Overlijdensjaar">18-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9061</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040370&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Joannes Bernardus Dievelaar</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Joannes Bernardus</item>
+          <item label="Achternaam">Dievelaar</item>
+          <item label="Overlijdensjaar">19-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9062</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040371&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Jan Willem Reevers</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Jan Willem</item>
+          <item label="Achternaam">Reevers</item>
+          <item label="Overlijdensjaar">20-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9068</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040372&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Adrianus van Hooijdonk</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Adrianus</item>
+          <item label="Tussenvoegsel">van</item>
+          <item label="Achternaam">Hooijdonk</item>
+          <item label="Overlijdensjaar">24-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9079</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040373&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Constance Willekes Macdonald</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Constance</item>
+          <item label="Achternaam">Willekes Macdonald</item>
+          <item label="Overlijdensjaar">24-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9080</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040374&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Maria Heemskerk</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Maria</item>
+          <item label="Achternaam">Heemskerk</item>
+          <item label="Overlijdensjaar">24-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9081</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040375&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Andries Jacob Kluppel</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Andries Jacob</item>
+          <item label="Achternaam">Kluppel</item>
+          <item label="Overlijdensjaar">26-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9085</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040376&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Wouter Bosch</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Wouter</item>
+          <item label="Achternaam">Bosch</item>
+          <item label="Overlijdensjaar">27-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9086</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040377&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johannes van den Bogaard</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Johannes</item>
+          <item label="Tussenvoegsel">van den</item>
+          <item label="Achternaam">Bogaard</item>
+          <item label="Overlijdensjaar">28-12-1882</item>
+          <item label="Overlijdensplaats">Haarlem</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9087</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040378&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Gerrit Kooij</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Gerrit</item>
+          <item label="Achternaam">Kooij</item>
+          <item label="Overlijdensjaar">13-12-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9104</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040379&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Burgje Noordijk</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Burgje</item>
+          <item label="Achternaam">Noordijk</item>
+          <item label="Overlijdensjaar">14-12-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9106</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040380&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Klaas Struick</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Klaas</item>
+          <item label="Achternaam">Struick</item>
+          <item label="Overlijdensjaar">19-12-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9114</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040381&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Anna de Groot</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Anna</item>
+          <item label="Tussenvoegsel">de</item>
+          <item label="Achternaam">Groot</item>
+          <item label="Overlijdensjaar">22-12-1882</item>
+          <item label="Overlijdensplaats">Haarlemmermeer</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9120</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040382&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Alida Balters</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Alida</item>
+          <item label="Achternaam">Balters</item>
+          <item label="Overlijdensjaar">09-12-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9127</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040383&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Geertje Langeveld</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Geertje</item>
+          <item label="Achternaam">Langeveld</item>
+          <item label="Overlijdensjaar">23-12-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9133</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040384&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Johanna Maria Backer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Johanna Maria</item>
+          <item label="Achternaam">Backer</item>
+          <item label="Overlijdensjaar">23-12-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9134</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040385&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Gesina van der Veld</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Gesina</item>
+          <item label="Tussenvoegsel">van der</item>
+          <item label="Achternaam">Veld</item>
+          <item label="Overlijdensjaar">30-12-1882</item>
+          <item label="Overlijdensplaats">Bloemendaal</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9135</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040386&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Petronella Heemskerk</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Petronella</item>
+          <item label="Achternaam">Heemskerk</item>
+          <item label="Overlijdensjaar">19-12-1882</item>
+          <item label="Overlijdensplaats">Heemstede</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9139</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040387&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Margaretha Zuelen</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Margaretha</item>
+          <item label="Achternaam">Zuelen</item>
+          <item label="Overlijdensjaar">22-12-1882</item>
+          <item label="Overlijdensplaats">Heemstede</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9140</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040388&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Maria Brouwer</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Maria</item>
+          <item label="Achternaam">Brouwer</item>
+          <item label="Overlijdensjaar">08-12-1882</item>
+          <item label="Overlijdensplaats">Schoten</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9141</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040389&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+      <record type="Persoon Memorie van Successie">
+        <recorditems>
+          <item label="">Apollonia Vink</item>
+          <item label="beginjaar">0</item>
+          <item label="eindjaar">9999</item>
+          <item label="Voornaam">Apollonia</item>
+          <item label="Achternaam">Vink</item>
+          <item label="Overlijdensjaar">05-12-1882</item>
+          <item label="Overlijdensplaats">Haarlemmerliede en Spaarnwoude</item>
+          <item label="Kantoor">Haarlem</item>
+          <item label="Dossiernummer">5/9142</item>
+          <item label="Inventarisnummer">1660</item>
+          <item label="Toegangsnummer">178</item>
+          <item label="Rol">Persoon Memorie van Successie</item>
+          <bron label="">http://noord-hollandsarchief.nl/bronnen/archieven?mivast=236&amp;miadt=236&amp;miaet=54&amp;micode=178-1660&amp;minr=5040390&amp;miview=ldt</bron>
+        </recorditems>
+      </record>
+    </record>
+  </data>
+</opendata>
